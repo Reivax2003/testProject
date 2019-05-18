@@ -1,0 +1,2 @@
+#for reading the test and asking questions
+file = open("TestQuestions.txt", "r")
