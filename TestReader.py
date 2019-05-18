@@ -1,4 +1,4 @@
-option = input("TEST or CREATE questions:")
+option = input("TEST or CREATE questions: ")
 
 if option == "Test":
     #for reading the test and anking questions
